@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aerial-anagram-387012",
+  "private_key_id": "cde376043a7423eb2bf0f2303349a010e267c734",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnyURs78NZWFlr\nqLQfutSRWWwUJBPq+f2OYT6N7VG82nFlkawa0j/f2wQjccmfkiQ/dWkRJFtKN/ov\nxaAcWpjQ2YqLn/ZE7nqW9E27K0ENSxDO62DJFnCvof5xahEIc6cNirZ9oBGuX/SU\nv3vlrsSwyB2nyQe0UQWjBc9q0KAt9ODS4oXUOsdJnQB4zPaCIJWzBLEK/AnCchw+\nQCEi/FWjlGJkA0cGtk0IMJ697KaUin0ubliEXt2Uw640An3vgeljT3pSP0SHyFsX\nUTstdofcWf/1YRNTn0z0o31exk0ADo0gu5cr1TOkANxKcB0zit6XRovqsQnKW08J\nXdXkqvG9AgMBAAECggEAAU8vWZfxDY+vBPQi/F4Rc2qVTr6YVDIBYfIi0j81mdRs\n5EbD0c1tt6y7xnNdyCu/B4ATouaxJVi0pa5Js/xGAIKOE6MFgYoIirMwhG3PkGUT\nUMC394xqsogrAONma3XhlMK4xAKy2J+W5u6WmYHTYZtyKyFvuLRq0kKaQ4JfbvRc\nvlWVTldoEcFmvCwG3KbCJER0lryMw5EvlOSjT7JPbBuIF0rM8L9pjyOmHqB7QplY\nUhKQ7bpn/YdPihVrOZ2npA1EOTrHIaij69h92MX4Rd7LNoRKkl+LZ8si0ZEN82Q1\nCbuiidywjZWwc8ffmhTDVih5lkbdPGPqcMJdlmC2SQKBgQDkxNHtynrObRc8PKRE\nr4K9I1T9cA8ILPDCpl3U919L1AahOpihOtHuHGg//i9XZvNXbHaDazza4pirCWHt\ng7wiCoVgxUTI6nrDh4PZLCA9Mg5y5dc5UfNbzxJ0lE+0g9vU1D9SakGN7wT/Fo3Z\nFH8xI52A1VvG/DgXyNEzTR1vRQKBgQC7wiX2+cAZpq8m2jVGfH//rSExxygoHG8h\nPVZz4bftHF9k5Q9Cs3rDgoRfHItvF0Ms4/A9ZziX+2SAkg6+X2bgJZGwhC0Re8uy\nGVX74aSGOs0oNQmT7YHWh927efoHQ23ymnziL+FHNk063bTF4AqXrLx8C2NFQ5y7\nBemxXLYEGQKBgQDPtL/hxbhQmg3BnFGNJ0ltzpmI7ehIBP2nzYNeLCdy4pQOaPRR\nVuVp6pLgnzl+grOoCYtk8MW0+o2gpQkrrDLxOVo2LYWxYeuKggy87mprBXrG6VXK\n7lQlZFIeVNY1UI8UoozHmD/izURdEq5BjXGaPPrxEUad2TxYo/UFPhvefQKBgFag\na924Ox5ankMhuCTOOkwfd8o8pdVj0Q4X+7Q5dx+p0IV/fXv7zO85X5N2WwqlQ/QJ\nMoVSA3VzoloDiVPiNlfCXaaART7kzAVe1SICaGMZ7B/Z4JJkqVvukan2zBnfzXF6\nP5YoGxs8/YLkWYxWIuz54Him1GVXnY9YWgrfyIa5AoGAJNnQdKJy7eQ1Aiel6rNR\n1EJmCdwLk43fJZbWGLX8Sp5GL3y/mM9qTOwbyaXpUnDR2jDcMvHdyViutH/V4UlL\nyMw5SLTI+kUNxXGhcmD//dTlvD5nsnlIu+qyfHi3FRO0JIjDCmQSIYvqdzvnpKR/\nBQEQKOcwUqKq+LI5SJiQXNU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheetreadershuke@aerial-anagram-387012.iam.gserviceaccount.com",
+  "client_id": "104274790845521545983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheetreadershuke%40aerial-anagram-387012.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
